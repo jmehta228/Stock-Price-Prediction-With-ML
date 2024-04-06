@@ -16,3 +16,5 @@ Once satisfied with the model's performance, we deploy it for real-time predicti
 
 Conclusion:
 ML empowers investors with tools to forecast stock performance, aiding in informed decision-making. However, it's essential to remember the inherent uncertainty of the stock market and employ diverse investment strategies alongside ML predictions.
+
+Project made with Jupyter Notebook/Lab and Python, utilizing various statistical and machine learning libraries. Dataset recieved from Yahoo Finance.
